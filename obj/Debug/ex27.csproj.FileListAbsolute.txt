@@ -1,0 +1,8 @@
+C:\Users\ad0rfin\Desktop\CSHARP\ex27\ex27\bin\Debug\ex27.exe.config
+C:\Users\ad0rfin\Desktop\CSHARP\ex27\ex27\bin\Debug\ex27.exe
+C:\Users\ad0rfin\Desktop\CSHARP\ex27\ex27\bin\Debug\ex27.pdb
+C:\Users\ad0rfin\Desktop\CSHARP\ex27\ex27\obj\Debug\ex27.csproj.AssemblyReference.cache
+C:\Users\ad0rfin\Desktop\CSHARP\ex27\ex27\obj\Debug\ex27.csproj.SuggestedBindingRedirects.cache
+C:\Users\ad0rfin\Desktop\CSHARP\ex27\ex27\obj\Debug\ex27.csproj.CoreCompileInputs.cache
+C:\Users\ad0rfin\Desktop\CSHARP\ex27\ex27\obj\Debug\ex27.exe
+C:\Users\ad0rfin\Desktop\CSHARP\ex27\ex27\obj\Debug\ex27.pdb
